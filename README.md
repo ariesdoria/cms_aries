@@ -9,6 +9,7 @@ This project was built as my training for understanding the inner workings of PH
 1. PHP
 2. MySQL
 3. BootStrap
+4. SublimeText
 
 # Getting Started
 ## Pre-requisites
